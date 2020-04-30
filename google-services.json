@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "506265210439",
+    "firebase_url": "https://register-e5081.firebaseio.com",
+    "project_id": "register-e5081",
+    "storage_bucket": "register-e5081.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506265210439:android:4e8e841d5ab1c9ef6f2b62",
+        "android_client_info": {
+          "package_name": "com.binesh.registerloginproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506265210439-ebasnq6srcdqh22guhou7kledt5igp1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmVbcOuK6fwQ06e-pslnOVmgrhzCLWM5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506265210439-ebasnq6srcdqh22guhou7kledt5igp1t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
